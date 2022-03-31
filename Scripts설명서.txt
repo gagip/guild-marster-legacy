@@ -1,0 +1,9 @@
+// 디렉터리 구조 설명
+- Adventurer: 모험가 관련 내용
+- Callback: 이벤트 콜백
+- Enemy: 적(몬스터)
+- Etc: 기타
+- Manager: 시스템 관리자 (싱글턴)
+- Model: DB Model
+- Object: 게임 오브젝트에 추가하는 컴포넌트들 (가급적 게임 오브젝트와 동일하게)
+- UI: UI

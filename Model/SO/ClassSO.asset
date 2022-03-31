@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3bfacbbb4ed86c48852acc1a726ed42, type: 3}
+  m_Name: ClassSO
+  m_EditorClassIdentifier: 
+  AdventurerClasses:
+  - name: warrior
+    classType: 1
+    sprite: {fileID: -2191159354639932562, guid: 59e30c8a2b300934fb1ab7165125a0a2, type: 3}
+  - name: avant garde
+    classType: 2
+    sprite: {fileID: -3724620165146754626, guid: 59e30c8a2b300934fb1ab7165125a0a2, type: 3}
+  - name: berserk
+    classType: 3
+    sprite: {fileID: 3901078094165676003, guid: 59e30c8a2b300934fb1ab7165125a0a2, type: 3}
+  - name: guardian
+    classType: 4
+    sprite: {fileID: 7969444966968815022, guid: 59e30c8a2b300934fb1ab7165125a0a2, type: 3}
+  - name: taitan
+    classType: 5
+    sprite: {fileID: -6200965790216386084, guid: 59e30c8a2b300934fb1ab7165125a0a2, type: 3}
+  - name: destroyer
+    classType: 6
+    sprite: {fileID: 1912672366384127121, guid: 59e30c8a2b300934fb1ab7165125a0a2, type: 3}
+  - name: mage
+    classType: 7
+    sprite: {fileID: 1035810492168050898, guid: 59e30c8a2b300934fb1ab7165125a0a2, type: 3}
+  - name: elementalist
+    classType: 8
+    sprite: {fileID: 1553771897511006784, guid: 59e30c8a2b300934fb1ab7165125a0a2, type: 3}
+  - name: healer
+    classType: 9
+    sprite: {fileID: -2586374353492223351, guid: 59e30c8a2b300934fb1ab7165125a0a2, type: 3}
+  - name: sorcerer
+    classType: 10
+    sprite: {fileID: -3741527610667930111, guid: 59e30c8a2b300934fb1ab7165125a0a2, type: 3}
+  - name: wizard
+    classType: 11
+    sprite: {fileID: -7889653345291078038, guid: 59e30c8a2b300934fb1ab7165125a0a2, type: 3}
+  - name: reviver
+    classType: 12
+    sprite: {fileID: 4873533656085767886, guid: 59e30c8a2b300934fb1ab7165125a0a2, type: 3}
+  - name: rogue
+    classType: 13
+    sprite: {fileID: -4495821207074150591, guid: 59e30c8a2b300934fb1ab7165125a0a2, type: 3}
+  - name: shooter
+    classType: 14
+    sprite: {fileID: 6290870010687860634, guid: 59e30c8a2b300934fb1ab7165125a0a2, type: 3}
+  - name: scout
+    classType: 15
+    sprite: {fileID: 1995333170143889240, guid: 59e30c8a2b300934fb1ab7165125a0a2, type: 3}
+  - name: archer
+    classType: 16
+    sprite: {fileID: 9096071270515527229, guid: 59e30c8a2b300934fb1ab7165125a0a2, type: 3}
+  - name: ninja
+    classType: 17
+    sprite: {fileID: -336631504551647060, guid: 59e30c8a2b300934fb1ab7165125a0a2, type: 3}
+  - name: assassin
+    classType: 18
+    sprite: {fileID: -5888029145902830412, guid: 59e30c8a2b300934fb1ab7165125a0a2, type: 3}
